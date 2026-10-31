@@ -1,9 +1,9 @@
 # Hi, I'm Ahmed Khalil Aloui 👋
 
-**Computer Science student on the path to becoming a full-stack developer** 🎯
+**IT student on the path to becoming a full-stack developer** 🎯
 Based in Manouba, Tunisia 🇹🇳
 
-I'm studying Computer Science Technology and building my skills through hands-on projects and internships. My focus is the **Angular + Spring Boot + PostgreSQL** stack, and my goal is to become a full-stack developer. I'm rigorous, curious and motivated, and I learn best by building real things and working in a team.
+I'm an IT student building my skills through hands-on projects and internships. My focus is the **Angular + Spring Boot + PostgreSQL** stack, and my goal is to become a full-stack developer. I'm rigorous, curious and motivated, and I learn best by building real things and working in a team.
 
 ---
 
@@ -11,7 +11,7 @@ I'm studying Computer Science Technology and building my skills through hands-on
 
 | Period | Program | Institution |
 |---|---|---|
-| In progress | Bachelor's degree in Computer Science Technology | ISET Charguia, Tunis |
+| In progress | Bachelor's degree in Information Technology | ISET Charguia, Tunis |
 | 2024 | Baccalaureate | Lycée Hamouda Becha, Manouba |
 
 ## 💼 Experience
