@@ -26,7 +26,7 @@ Handled the front desk and customer service of the Manouba branch, and managed u
 
 ### miniFacebook
 A social network application.
-**Stack:** Angular · Spring Boot microservices · PostgreSQL
+**Stack:** Angular · Spring Boot  · PostgreSQL
 
 ### Koultounsi *(pair project)*
 An application dedicated to discovering and promoting Tunisia.
